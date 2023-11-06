@@ -1,0 +1,51 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+#过滤掉不想要文件和文件夹
+*.uvprojx
+*.map
+*.Admin
+*.bat
+*.dbgconf
+*.scvd
+*.exe
+*.sln
+*.vcxproj
+*.o
+*.s
+*.d
+*.crf
+*.obj
+*.filters
+*.user
+*.suo
+*.db
+*.82070
+*.Admiin
+*.uvoptx
+*.lst
+*.ipch
+Debug/
+.vs
+Release/
+Objects/
+Library/
+Start/
+System/
+.vscode/
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
